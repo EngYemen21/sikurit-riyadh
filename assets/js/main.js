@@ -16,7 +16,6 @@ document.addEventListener('DOMContentLoaded', function() {
     initCounterAnimations();
     initParallaxEffects();
     
-    console.log('Securit Glass Website initialized successfully');
 });
 
 function initGalleryGrid(){
@@ -735,28 +734,10 @@ function initLazyLoading() {
 // Performance Optimizations
 function initPerformanceOptimizations() {
     // Preload critical resources
-    const criticalResources = [
-        'https://fonts.googleapis.com/css2?family=Tajawal:wght@300;400;500;700;900&display=swap',
-        'https://cdn.tailwindcss.com'
-    ];
+   
     
-    criticalResources.forEach(resource => {
-        const link = document.createElement('link');
-        link.rel = 'preload';
-        link.href = resource;
-        link.as = resource.includes('.css') ? 'style' : 'script';
-        if (resource.includes('font')) {
-            link.crossOrigin = 'anonymous';
-        }
-        document.head.appendChild(link);
-    });
-    
-    // Initialize service worker for caching
-    if ('serviceWorker' in navigator) {
-        navigator.serviceWorker.register('/sw.js').catch(() => {
-            // Service worker registration failed, but that's okay
-        });
-    }
+
+  
     
     // Optimize scroll events
     let ticking = false;
@@ -801,7 +782,6 @@ function throttle(func, limit) {
 
 // Analytics and Tracking
 function trackEvent(eventName, eventData = {}) {
-    console.log('Event tracked:', eventName, eventData);
     
     // Google Analytics integration
     if (typeof gtag !== 'undefined') {
