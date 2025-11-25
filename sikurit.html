@@ -71,7 +71,21 @@
     <base target="_blank">
 </head>
 
-<body class="bg-gray-50">
+<style>
+    @font-face {
+        font-family: 'Handicraft';
+        src: url('assets/fonts/alfont_com_TheYearofHandicrafts-Regular.otf') format('opentype');
+        font-weight: normal;
+        font-style: normal;
+    }
+
+    body {
+        font-family: 'Handicraft', sans-serif;
+    }
+</style>
+
+<body class=" bg-gray-50">
+    <!-- Header -->
     <header class="bg-white shadow-lg sticky top-0 z-50">
         <nav class="container mx-auto px-4 py-4">
             <div class="flex justify-between items-center">
@@ -84,15 +98,13 @@
                     </div>
                     <div>
                         <h1 class="text-xl font-bold text-gray-800">زجاج السيكوريت</h1>
-                        <!-- <p class="text-sm text-gray-600"> - الرياض</p> -->
+                        <!-- <p class="text-sm text-gray-600">الرياض - الصناعية القديمة</p> -->
                     </div>
                 </a>
-
                 <!-- Desktop Navigation -->
                 <div class="hidden md:flex space-x-8 space-x-reverse">
-                    <a href="index.html"
-                        class="text-gray-700 hover:text-primary transition-colors font-medium">الرئيسية</a>
-                    <a href="services.html"
+                    <a href="index.html" class="text-gray-700 hover:text-primary transition-colors font-medium"">الرئيسية</a>
+                    <a href=" services.html"
                         class="text-gray-700 hover:text-primary transition-colors font-medium">الخدمات</a>
                     <a href="blog.html"
                         class="text-gray-700 hover:text-primary transition-colors font-medium">المدونة</a>
@@ -107,11 +119,10 @@
                 <!-- CTA Button -->
                 <div class="hidden md:block">
                     <a href="tel:+966558107645"
-                        class="bg-gradient-to-br from-secondary to-red-600 text-white px-6 py-2 rounded-lg hover:bg-red-700 transition-colors font-medium">
+                        class="bg-gradient-to-br from-blue-900 via-blue-800 to-blue-700 text-white text-white px-6 py-2 rounded-lg hover:bg-blue-700 transition-colors font-medium">
                         اتصل الآن
                     </a>
                 </div>
-
                 <!-- Mobile Menu Button -->
                 <button id="mobile-menu-btn" class="md:hidden text-gray-700">
                     <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -137,7 +148,7 @@
                     <a href="faq.html" class="text-gray-700 hover:text-primary transition-colors font-medium">الأسئلة
                         الشائعة</a>
                     <a href="tel:+966558107645"
-                        class="bg-gradient-to-br from-secondary to-red-600 text-white px-6 py-2 rounded-lg hover:bg-red-700 transition-colors font-medium text-center">
+                        class="bg-primary text-white px-6 py-2 rounded-lg hover:bg-blue-700 transition-colors font-medium text-center">
                         اتصل الآن
                     </a>
                 </div>
@@ -619,11 +630,8 @@
         </div>
     </footer>
 
-    <script>
-        document.getElementById('mobile-menu-btn').addEventListener('click', function () {
-            document.getElementById('mobile-menu').classList.toggle('hidden');
-        });
-    </script>
+    <script src="assets/js/main.js"></script>
+
 </body>
 
 </html>
