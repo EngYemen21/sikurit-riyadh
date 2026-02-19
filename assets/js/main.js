@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', function () {
     // Initialize all components
     initMobileMenu();
     initSmoothScrolling();
-    initAnimations();
+  //  initAnimations();
     initGalleryGrid();
     initFAQAccordion();
     initContactForm();

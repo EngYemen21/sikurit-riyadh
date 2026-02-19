@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "title": "أفضل شركة تركيب زجاج سيكوريت بالرياض",
+        "excerpt": "دليلك الشامل لاختيار الشركة المناسبة لتركيب الزجاج المقسى بأعلى معايير الجودة.",
+        "image": "assets/images/image1.png",
+        "category": "تركيب زجاج",
+        "date": "25 يونيو 2024",
+        "readTime": "5 دقائق",
+        "url": "glass-installation-riyadh.html"
+    },
+    {
+        "id": 2,
+        "title": "لماذا تختار الزجاج المقسى لمشروعك؟",
+        "excerpt": "تعرف على فوائد الزجاج السيكوريت ولماذا هو الخيار الأمثل للواجهات الحديثة.",
+        "image": "assets/images/image2.png",
+        "category": "نصائح زجاجية",
+        "date": "18 يونيو 2024",
+        "readTime": "7 دقائق",
+        "url": "why-tempered-glass.html"
+    },
+    {
+        "id": 3,
+        "title": "تركيب زجاج سيكوريت في حي العلياء",
+        "excerpt": "مشروعنا الناجح في حي العلياء وكيف حققنا أعلى معايير الجودة.",
+        "image": "assets/images/image3.png",
+        "category": "مشاريعنا",
+        "date": "10 يونيو 2024",
+        "readTime": "4 دقائق",
+        "url": "glass-installation-al-olaya.html"
+    },
+    {
+        "id": 4,
+        "title": "تركيب زجاج سيكوريت في حي النرجس",
+        "excerpt": "تفاصيل مشروعنا في حي النرجس والتحديات التي تم التغلب عليها.",
+        "image": "assets/images/image3.png",
+        "category": "مشاريعنا",
+        "date": "10 يونيو 2024",
+        "readTime": "4 دقائق",
+        "url": "glass-installation-al-narjis.html"
+    },
+    {
+        "id": 5,
+        "title": "صيانة زجاج السيكوريت: النصائح الذهبية",
+        "excerpt": "كيف تحافظ على زجاج السيكوريت لسنوات طويلة دون مشاكل.",
+        "image": "assets/images/image1.png",
+        "category": "صيانة",
+        "date": "5 يونيو 2024",
+        "readTime": "6 دقائق",
+        "url": "maintenance-tips.html"
+    },
+    {
+        "id": 6,
+        "title": "أنواع الزجاج المقسى واستخداماته",
+        "excerpt": "تعرف على أنواع الزجاج المقسى المختلفة وأفضل استخداماتها.",
+        "image": "assets/images/image2.png",
+        "category": "نصائح زجاجية",
+        "date": "1 يونيو 2024",
+        "readTime": "8 دقائق",
+        "url": "types-of-tempered-glass.html"
+    },
+    {
+        "id": 7,
+        "title": "تركيب واجهات زجاجية للمحلات التجارية",
+        "excerpt": "أهمية الواجهات الزجاجية في جذب العملاء وزيادة المبيعات.",
+        "image": "assets/images/image1.png",
+        "category": "تركيب زجاج",
+        "date": "28 مايو 2024",
+        "readTime": "5 دقائق",
+        "url": "shop-facades.html"
+    },
+    {
+        "id": 8,
+        "title": "أبواب زجاجية سيكوريت للمنازل العصرية",
+        "excerpt": "دليل شامل لاختيار الأبواب الزجاجية المناسبة لمنزلك.",
+        "image": "assets/images/image2.png",
+        "category": "أبواب زجاجية",
+        "date": "20 مايو 2024",
+        "readTime": "6 دقائق",
+        "url": "glass-doors.html"
+    }
+]
