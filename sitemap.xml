@@ -123,6 +123,40 @@
         <lastmod>2025-02-03</lastmod>
         <priority>0.5</priority>
     </url>
-    
+    <url>
+        <loc>https://www.riyadhsikurit.com/glass-doors.html</loc>
+        <lastmod>2026-03-04</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://www.riyadhsikurit.com/glass-windows.html</loc>
+        <lastmod>2026-03-04</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://www.riyadhsikurit.com/glass-railings.html</loc>
+        <lastmod>2026-03-04</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://www.riyadhsikurit.com/glass-facades.html</loc>
+        <lastmod>2026-03-04</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://www.riyadhsikurit.com/glass-partitions.html</loc>
+        <lastmod>2026-03-04</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://www.riyadhsikurit.com/mirrors.html</loc>
+        <lastmod>2026-03-04</lastmod>
+        <priority>0.70</priority>
+    </url>
+    <url>
+        <loc>https://www.riyadhsikurit.com/works.html</loc>
+        <lastmod>2026-03-04</lastmod>
+        <priority>0.70</priority>
+    </url>
 
 </urlset>
